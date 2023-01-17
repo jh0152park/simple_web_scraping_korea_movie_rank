@@ -1,8 +1,8 @@
-# Simple Web Scraping Naver Stock
-Simple python web scarping script. Store top 250 information on KOSPI market capitalization on Naver Securities page
+# Simple Web Scraping to cheak ranking of 2018 to 2022 years box office movies on Naver
+A simple script that checks movie rankings every year from 2018 to 2022 and downloads movie poster images from 1st to 8th every year.
 
 
-![제목 없음](https://user-images.githubusercontent.com/118165975/212910287-a7a4f92c-3cbd-4052-9637-67985bfabed6.jpg)
+![제목 없음](https://user-images.githubusercontent.com/118165975/212915960-02148b02-3544-4c28-b390-35c697bf9e5b.jpg)
 
 
 # Overview
